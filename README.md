@@ -1,3 +1,3 @@
 # Learning
 
-Testowy tekst do cwiczenia comitóww
+Testowy tekst do cwiczenia comitów.
