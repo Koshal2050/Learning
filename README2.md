@@ -1,1 +1,1 @@
-morze to 
+może to
